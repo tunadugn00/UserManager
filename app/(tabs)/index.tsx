@@ -1,3 +1,4 @@
+//app\(tabs)\index.tsx
 import React, { useState, useEffect } from 'react';
 import { StyleSheet, TextInput, Button, Alert, FlatList, ActivityIndicator, TouchableOpacity } from 'react-native';
 import { Text, View } from '@/components/Themed';
